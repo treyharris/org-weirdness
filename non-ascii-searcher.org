@@ -1,0 +1,15 @@
+#+OPTIONS: H:2 num:nil toc:nil
+#+STARTUP: indent odd hidestars
+#+STARTUP: entitiespretty
+#+TITLE: Example of HTML img weirdness
+* Extract of problematic code
+So, to get a pronunciation of, for instance, /С днём рождения!/ (happy birthday), the URL:
+
+https://translate.google.com/#ru/en/С+днём+рождения!
+
+redirects to a page where the TTS can be heard by tapping the icon shown here:
+
+#+CAPTION: Google Translate example
+#+ATTR_HTML: :alt A screenshot from a browser showing Google Translate with «С днём рождения!» :title Google Translate example :align center
+#+ATTR_HTML: width 800
+[[./img/translate-example.jpg]]
