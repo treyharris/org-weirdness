@@ -10,6 +10,6 @@ https://translate.google.com/#ru/en/С+днём+рождения!
 redirects to a page where the TTS can be heard by tapping the icon shown here:
 
 #+CAPTION: Google Translate example
-#+ATTR_HTML: :alt A screenshot from a browser showing Google Translate with «С днём рождения!» :title Google Translate example :align center
 #+ATTR_HTML: width 800
+#+ATTR_HTML: :alt A screenshot from a browser showing Google Translate with «С днём рождения!» :title Google Translate example :align center
 [[./img/translate-example.jpg]]
